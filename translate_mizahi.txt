@@ -1,0 +1,50 @@
+[BrightBlue]? Yardım mı lazım gardaş?
+[Cyan]  Hesap ara la
+[BrightGreen]+ Hesap ekle la
+[BrightYellow]  Hesapları listele la
+[Magenta]↓ Verileri dışa aktar la
+[Magenta]↑ Verileri içe aktar la
+[Gray]☼ Şifreleme yöntemini değiştirla
+[Red]X Çek arabanı
+Kullanımı: [Gray]./$() <?argümalar>
+[Bright]Bunu gösteriyo da işte.
+[Bright]Hesap kaydetme menüsünde başlatıyo işte.
+[Bright]Hesap bilgilerini iletiyo işte.
+[Bright]Hesaplarını listeliyo işte.
+[Bright]Bilgilerini dışa aktarıyo işte.
+[Bright]Bilgilerini içe aktarıyo işte.
+[Bright]Şifreleme yöntemini değiştiriyo işte.
+][Yellow]İle devam et la:
+][Yellow]Hangi siteyi arıyon gardaş:
+][Yellow]Nerede aramak istiyorsun gardaş:
+Hesaplarda la
+Kurtarma kodlarında la
+][Yellow]Site seç da:
+Hangi siteyi arıyon gardaş:
+][Yellow]E-posta/kullanıcı adı/telefon:
+][Yellow]Parolayı:
+Hesap oluştur/kaydet la:
+][Yellow]Site ismi:
+Hesap kaydedildi la.
+[Bright][Red]- Hesap sil la:
+Varolan bir hesabı siliyo işte.
+Hop yönetici misin la?
+Evet la.
+Yok la.
+Hesap silindi la.
+Sen oluştur da
+Ben gireceğim la
+][Yellow]Parola uzunluğu:
+][Yellow]Parola:
+[Red]Parolan güçsüz gardaş, devam etmek istiyon mu la?:
+Başa dön la
+Vazgeç la
+][Yellow]Şifren:
+][Yellow]Kaydedilecek dosyanın yolu ve ismi:
+Şifrleme metodu değiştirildi la.
+"$()" İsimli dosya kaydedildi la.
+Eski hesap verileri korunsun mu la?
+Korunsun da
+Boşver korunmasın la
+][Yellow]İçe aktarılacak dosyanın yolu ve ismi:
+"$()" İsimli dosya içe aktarıldı la.

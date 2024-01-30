@@ -1,0 +1,50 @@
+[BrightBlue]? Yardım menüsü
+[Cyan]  Hesap Ara
+[BrightGreen]+ Hesap ekle
+[BrightYellow]  Hesapları listele
+[Magenta]↓ Verileri dışa aktar
+[Magenta]↑ Verileri içe aktar
+[Gray]☼ Şifreleme yöntemini değiştir
+[Red]X Çıkış yap
+Kullanımı: [Gray]./$() <?argümalar>
+[Bright]Bu menüyü gösterir.
+[Bright]Hesap kaydetme menüsünde başlatır.
+[Bright]Hesap bilgilerinizi iletir.
+[Bright]Hesaplarınızı listeler.
+[Bright]Bilgilerinizi dışa aktarır.
+[Bright]Bilgilerinizi içe aktarır.
+[Bright]Şifreleme yöntemini değiştirir.
+][Yellow]İle devam et:
+][Yellow]Hangi siteyi arıyorsunuz:
+][Yellow]Nerede aramak istiyorsunuz:
+Hesaplarda
+Kurtarma kodlarında
+][Yellow]Site seç:
+Hangi siteyi arıyorsunuz:
+][Yellow]E-posta/kullanıcı adı/telefon:
+][Yellow]Parolayı:
+Hesap oluştur/kaydet:
+][Yellow]Site ismi:
+Hesap kaydedildi.
+[Bright][Red]- Hesap sil
+Varolan bir hesabı siler.
+Sen yönetici misin?
+Evet.
+Hayır.
+Hesap silindi.
+Sen oluştur
+Ben gireceğim
+][Yellow]Parola uzunluğu:
+][Yellow]Parola:
+[Red]Parolanız güçsüz, devam etmek istiyor musunuz?:
+Ana menüye dön
+İptal et
+][Yellow]Şifreniz:
+][Yellow]Kaydedilecek dosyanın yolu ve ismi:
+Şifrleme metodu değiştirildi.
+"$()" İsimli dosya kaydedildi.
+Eski hesap verileri korunsun mu?
+Korunsun
+Korunmasın
+][Yellow]İçe aktarılacak dosyanın yolu ve ismi:
+"$()" İsimli dosya içe aktarıldı.

@@ -1,0 +1,50 @@
+[BrightBlue]? Help menu
+[Cyan]  Search Accounts
+[BrightGreen]+ Add Account
+[BrightYellow]  List Accounts
+[Magenta]↓ Export Data
+[Magenta]↑ Import Data
+[Gray]☼ Change Encryption Method
+[Red]X Log Out
+Usage: [Gray]./$() <?arguments>
+[Bright]Displays this menu.
+[Bright]Initiates the account creation menu.
+[Bright]Fetches your account information.
+[Bright]Lists your accounts.
+[Bright]Exports your information.
+[Bright]Imports your information.
+[Bright]Changes the encryption method.
+][Yellow]Continue with:
+][Yellow]Which site are you searching for:
+][Yellow]Where do you want to search:
+In Accounts
+In Recovery Codes
+][Yellow]Select Site:
+Which site are you searching for:
+][Yellow]Email/Username/Phone:
+][Yellow]Password:
+Create/Save Account:
+][Yellow]Site Name:
+Account saved.
+[Bright][Red]- Delete Account
+Deletes an existing account.
+Are you an administrator?
+Yes.
+No.
+Account deleted.
+You create
+I will enter
+][Yellow]Password length:
+][Yellow]Password:
+[Red]Your password is weak, do you still want to proceed?:
+Return to main menu
+Cancel
+][Yellow]Your password:
+][Yellow]Path and name of the file to be saved:
+Encryption method changed.
+File named "$()" saved.
+Do you want to keep the old account data?
+Yes
+No
+][Yellow]Path and name of the file to be imported:
+File named "$()" imported.
