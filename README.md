@@ -1,0 +1,2 @@
+# srgpass
+CLI password manager.
