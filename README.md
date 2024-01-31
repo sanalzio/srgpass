@@ -9,7 +9,7 @@
 ## İndir / Download
 [<img alt="downloadbtn" src="https://dabuttonfactory.com/button.png?t=İndir %2F Download&f=Ubuntu-Bold&ts=30&tc=fff&hp=15&vp=15&c=6&bgt=unicolored&bgc=238636&bs=4&bc=37914a" height="45px">](https://github.com/sanalzio/srgpass/releases)
 
-## Yarım menüsü / Help menu
+## Yardım menüsü / Help menu
 [[ 🇹🇷 ] Türkçe](https://tr.wikipedia.org/wiki/T%C3%BCrkiye)
 
 ```
@@ -53,7 +53,7 @@ Bu projeye rahatlıkla chrome yada chromium tabanlı tarayıcılarınızdan elde
 [engilsh]
 You can easily import this project with your `.csv` files obtained from your chrome or chromium based browsers.
 
-## Çeivri / Translation
+## Çeviri / Translation
 [[ 🇹🇷 ] Türkçe](https://tr.wikipedia.org/wiki/T%C3%BCrkiye)
 Sadece translate.txt dosyasını çevirmeniz yeterlidir.
 
