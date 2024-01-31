@@ -46,5 +46,19 @@
    --chanagemethod / cm : Changes the encryption method.
 ```
 
+## İçe aktarma hilesi / Import trick
+[[ 🇹🇷 ] Türkçe](https://tr.wikipedia.org/wiki/T%C3%BCrkiye)
+Bu projeye rahatlıkla chrome yada chromium tabanlı tarayıcılarınızdan elde edindiğiniz `.csv` dosyalarınızı ile içe aktarabilirsiniz.
+
+[engilsh]
+You can easily import this project with your `.csv` files obtained from your chrome or chromium based browsers.
+
+## Çeivri / Translation
+[[ 🇹🇷 ] Türkçe](https://tr.wikipedia.org/wiki/T%C3%BCrkiye)
+Sadece translate.txt dosyasını çevirmeniz yeterlidir.
+
+[engilsh]
+Just translate the `translate.txt` file.
+
 ## Lisans / License
 [MIT](https://mit-license.org/)
